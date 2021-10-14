@@ -212,4 +212,6 @@ a {
 }
 .front:focus {
   background-color: tomato;
+  border: 4px solid #f34a4a;
+  background-color: #262f34;
 }
